@@ -13,7 +13,7 @@
 1.1 Cкачать скрипт
 > pars_url.py
 
-из нашего набора https://github.com/RED-AdvancedResearch-Team/Supply_chain_research;
+из нашего набора https://github.com/RED-Advanced/Research-Team/Supply_chain_research;
 
 1.2 Создать текстовый файл
 > MY_rep.txt
@@ -73,7 +73,7 @@ https://github.com/RED-Advanced-Research-Team/Supply_chain_research).
 3.1 Для подтверждения перерегистрации владельца битой ссылки вам потребуется скрипт
 > clicker_github.py
 
-из нашего набора https://github.com/RED-Advanced-ResearchTeam/Supply_chain_research.
+из нашего набора https://github.com/RED-Advanced-Research/Team/Supply_chain_research.
 
 3.2 Также потребуется отфильтровать полученный ранее файл **result_github.txt** таким
 образом, чтобы в нем остались только имена пользователей (пример: из
