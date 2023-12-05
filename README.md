@@ -79,7 +79,7 @@ https://github.com/RED-Advanced-Research-Team/Supply_chain_research).
 образом, чтобы в нем остались только имена пользователей (пример: из
 https://github.com/RED-Advanced-Research-Team/Supply_chain_research необходимо
 получить только **RED-Advanced-Research-Team**). Назовём новый файл
-> result_github_user.txt.
+> result_github_user.txt
 
 3.3 Далее потребуется произвольный почтовый ящик, к которому вы имеете доступ и
 пароль.
