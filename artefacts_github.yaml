@@ -1,0 +1,24 @@
+id: artefacts-takeover
+
+info:
+  name: Artefacts Takeover
+  author: MTS ART
+  severity: info
+  tags: domain, takeover
+
+requests:
+  - method: GET
+    path:
+      - '{{BaseURL}}'
+    matchers-condition: or
+                   
+    matchers:
+      - type: word
+        name: 404
+        words:
+          - 'Sign in to GitHub'
+      - type: word
+        name: github
+        words:
+          - a GitHub Pages site here
+          - For root URLs
